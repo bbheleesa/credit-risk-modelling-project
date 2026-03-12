@@ -33,6 +33,3 @@ The model achieved an ROC AUC score of **0.69**, indicating moderate predictive 
 - NumPy
 - Scikit-learn
 - Matplotlib
-
-## Author
-Eleesa Harris
