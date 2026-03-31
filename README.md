@@ -24,7 +24,7 @@ The project follows a typical credit risk modelling workflow:
 5. Conversion of Predicted Probabilities into Credit Scores
 
 ## Results
-The model achieved an ROC AUC score of **0.69**, indicating moderate predictive power in distinguishing between defaulting and non-defaulting borrowers.
+The model achieved an ROC AUC of 0.69. This was above the random baseline of 0.5, though below the 0.75 threshold typical of production credit models, which is expected for a logistic regression baseline on a limited feature set.
 
 ## Technologies Used
 - Python
