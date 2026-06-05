@@ -12,6 +12,7 @@ The dataset is derived from Lending Club loan data and includes borrower financi
 - Credit grade
 - Employment length
 - Annual income
+
 The original dataset that was used to create the sample is linked within the notebook. However the specific file used was in .feather format, which had to be converted to .csv, which is not shown in the notebook itself.
 
 ## Methodology
